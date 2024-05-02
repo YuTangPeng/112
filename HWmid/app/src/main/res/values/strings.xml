@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HWmid</string>
+    <string name="male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Regularticket">Regularticket</string>
+    <string name="Childticket">Childticket</string>
+    <string name="studentticket">Student Ticket</string>
+    <string name="confirm">Confirm</string>
+    <string name="numberOftickets">Count:</string>
+    <string name="ticketType">Ticket Type:</string>
+    <string name="gender">Gender:</string>
+    <string name="total">Total:</string>
+</resources>
